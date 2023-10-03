@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "601240783963",
+    "project_id": "sias-95c56",
+    "storage_bucket": "sias-95c56.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:601240783963:android:3c8a2fc6dfa6b345b8c37e",
+        "android_client_info": {
+          "package_name": "com.example.sias"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDGj2XACYPO444eFbgi_nUUCElWuTj5cos"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
