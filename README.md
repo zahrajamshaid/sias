@@ -1,6 +1,6 @@
 # sias
 
-A new Flutter project.
+sias- She is a survior, is an app for women to come together against harassment, abuse and assults
 
 ## Getting Started
 
